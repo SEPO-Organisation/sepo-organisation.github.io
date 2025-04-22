@@ -1,3 +1,9 @@
 body{
 	font-family: Verdana
 }
+
+.sektion{
+	;border: 6px double rgb(232 249 255); 
+	border-radius: 4px; 
+	background-color: rgba(145, 191, 255, 0.5)
+}
